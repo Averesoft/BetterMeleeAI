@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mm_malloc.h": "c",
+        "system.h": "c"
+    }
+}
